@@ -1,0 +1,24 @@
+{
+  "name": "servidor-nodejs",
+  "version": "1.0.0",
+  "description": "backend app-segurito",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flutter",
+    "commerce",
+    "nodejs"
+  ],
+  "author": "Diego Merino Rubilar",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  }
+}
